@@ -1,0 +1,7 @@
+# IDE's
+.vscode
+.idea
+
+# Virtual and Variable Environments
+.venv
+.env
